@@ -3,27 +3,27 @@ This project demonstrates a simple Extract, Transform, Load (ETL) process using 
 
 Features
 
-Extract: Supports extracting data from CSV, JSON (in NDJSON format), and XML files.
+**Extract:** Supports extracting data from CSV, JSON (in NDJSON format), and XML files.
 
 Transform: Performs unit conversions for height (inches to meters) and weight (pounds to kilograms), rounding the results to two decimal places.
 
-Load: Saves the transformed data into a new CSV file.
+**Load:** Saves the transformed data into a new CSV file.
 
 Logging: Tracks the progress of each ETL step, saving log messages to a text file for traceability.
 
-Prerequisites
+**Prerequisites**
 
-Libraries
+**Libraries**
 
 Ensure you have the following Python libraries installed:
 
-pandas
+1.pandas
 
-json
+2.json
 
-xml.etree.ElementTree (built-in)
+3.xml.etree.ElementTree (built-in)
 
-datetime (built-in)
+4.datetime (built-in)
 
 Install pandas using pip if not already installed:
 
