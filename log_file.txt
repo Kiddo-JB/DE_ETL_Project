@@ -1,0 +1,34 @@
+2024-12-31 10:42:48.628210 - Starting ETL process
+2024-12-31 10:42:48.628311 - Starting data extraction
+2024-12-31 10:42:48.628353 - Extracting data from CSV file: ./source1.csv
+2024-12-31 10:42:48.634386 - Extracting data from JSON file: ./source1.json
+2024-12-31 10:42:48.651603 - Extracting data from XML file: ./source1.xml
+2024-12-31 10:42:48.652352 - Extracting data from CSV file: ./source2.csv
+2024-12-31 10:42:48.654313 - Extracting data from JSON file: ./source2.json
+2024-12-31 10:42:48.658652 - Extracting data from XML file: ./source2.xml
+2024-12-31 10:42:48.659308 - Extracting data from CSV file: ./source3.csv
+2024-12-31 10:42:48.660938 - Extracting data from JSON file: ./source3.json
+2024-12-31 10:42:48.664991 - Extracting data from XML file: ./source3.xml
+2024-12-31 10:42:48.673263 - Data extraction completed
+2024-12-31 10:42:48.673397 - Starting data transformation
+2024-12-31 10:42:48.678569 - Data transformation completed
+2024-12-31 10:42:48.678655 - Loading data into CSV file: transformed_data.csv
+2024-12-31 10:42:48.688706 - Data successfully loaded into transformed_data.csv
+2024-12-31 10:42:48.688771 - ETL process completed
+2024-12-31 10:45:09.359274 - Starting ETL process
+2024-12-31 10:45:09.359379 - Starting data extraction
+2024-12-31 10:45:09.359424 - Extracting data from CSV file: ./source1.csv
+2024-12-31 10:45:09.362082 - Extracting data from JSON file: ./source1.json
+2024-12-31 10:45:09.362958 - Extracting data from XML file: ./source1.xml
+2024-12-31 10:45:09.363652 - Extracting data from CSV file: ./source2.csv
+2024-12-31 10:45:09.366617 - Extracting data from JSON file: ./source2.json
+2024-12-31 10:45:09.367287 - Extracting data from XML file: ./source2.xml
+2024-12-31 10:45:09.367897 - Extracting data from CSV file: ./source3.csv
+2024-12-31 10:45:09.369630 - Extracting data from JSON file: ./source3.json
+2024-12-31 10:45:09.370257 - Extracting data from XML file: ./source3.xml
+2024-12-31 10:45:09.373656 - Data extraction completed
+2024-12-31 10:45:09.373813 - Starting data transformation
+2024-12-31 10:45:09.377035 - Data transformation completed
+2024-12-31 10:45:09.377106 - Loading data into CSV file: transformed_data.csv
+2024-12-31 10:45:09.378369 - Data successfully loaded into transformed_data.csv
+2024-12-31 10:45:09.378426 - ETL process completed
