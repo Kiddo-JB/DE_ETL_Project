@@ -52,22 +52,22 @@ Run the script using the following example:
 **Code Overview**
   **Key Functions**
   
-   **1.Extract Functions:**
+  1.Extract Functions:
     
         extract_csv: Reads data from a CSV file.    
         extract_json: Reads data from a JSON file (in NDJSON format).    
         extract_xml: Parses data from an XML file.    
         extract_data: Combines data from multiple source files into a single DataFrame, removing duplicates.    
         
-   ** 2.Transform Function:**
+   2.Transform Function:
     
         transform_data: Converts height from inches to meters and weight from pounds to kilograms, rounding to 2 decimal places.
     
-    **3.Load Function:**
+   3.Load Function:
     
         load_data: Writes the transformed data to a CSV file.
     
-    **4.ETL Process:**
+    4.ETL Process:
     
         etl_process: Orchestrates the entire Extract, Transform, and Load workflow.
 
