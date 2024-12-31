@@ -40,6 +40,7 @@ Update the paths for your source files in the file_paths list.
 **Step 3**: Run the Script
 
 Run the script using the following example:
+
     file_paths = ['./source1.csv', './source1.json', './source1.xml','./source2.csv', './source2.json', './source2.xml','./source3.csv', './source3.json', './source3.xml']
     etl_process(file_paths, TRANSFORMED_DATA)
 
