@@ -52,7 +52,6 @@ Run the script using the following example:
 **  Code Overview
 
   Key Functions
-    
     1.Extract Functions:**
     
     extract_csv: Reads data from a CSV file.
