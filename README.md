@@ -49,20 +49,17 @@ Run the script using the following example:
 
   Logs of the ETL process are saved in a text file (/content/log_file.txt).
 
-**Code Overview
-  Key Functions**
+**Code Overview**
+  **Key Functions**
   
    **1.Extract Functions:**
     
-        extract_csv: Reads data from a CSV file.
-    
-        extract_json: Reads data from a JSON file (in NDJSON format).
-    
-        extract_xml: Parses data from an XML file.
-    
-        extract_data: Combines data from multiple source files into a single DataFrame, removing duplicates.
-    
-    **2.Transform Function:**
+        extract_csv: Reads data from a CSV file.    
+        extract_json: Reads data from a JSON file (in NDJSON format).    
+        extract_xml: Parses data from an XML file.    
+        extract_data: Combines data from multiple source files into a single DataFrame, removing duplicates.    
+        
+   ** 2.Transform Function:**
     
         transform_data: Converts height from inches to meters and weight from pounds to kilograms, rounding to 2 decimal places.
     
